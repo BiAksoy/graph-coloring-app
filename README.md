@@ -1,6 +1,6 @@
 # Graph Coloring App
 
-This is a Python application that allows you to interactively color graphs using the tkinter and networkx libraries. The app lets you define nodes, edges, and available colors, and then visually displays the graph with colors assigned to nodes while ensuring no adjacent nodes have the same color.
+A simple Python application for graph coloring using the Tkinter, NetworkX, and Matplotlib. This application allows users to input a graph by specifying nodes, edges, and available colors. It then performs a graph coloring algorithm to color the nodes in such a way that no two adjacent nodes have the same color.
 
 ## Installation
 
